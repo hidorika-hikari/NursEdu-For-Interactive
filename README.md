@@ -2,8 +2,8 @@
 
 ###
 
-•Web application for creating and taking quizzes that simulate various scenarios, with choices dynamically linking to different questions. There are 3 types of users: teacher, student and admin by logging in with oauth.
-•This is a project to improve the existing website of the Faculty of Nursing to make it fully functional as desired. This website is about create and take quizzes that simulate various scenarios, where each choice links to different questions.
+•Web application for creating and taking quizzes that simulate various scenarios, with choices dynamically linking to different questions. There are 3 types of users: teacher, student and admin by logging in with oauth.<br>
+•This is a project to improve the existing website of the Faculty of Nursing to make it fully functional as desired. This website is about create and take quizzes that simulate various scenarios, where each choice links to different questions.<br>
 
 •Developed with Flask, PostgreSQL.
 •My job is design and implemented user interface elements such as buttons, forms, menus, and navigation bars and made all pages responsive for mobile, iPad, tablet, and desktop devices..
