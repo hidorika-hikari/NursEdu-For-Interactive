@@ -39,7 +39,7 @@
 </div>
 
 <h2 align="left">Result of Project</h2>
-•Since the website is exclusively used by the nursing faculty, I believe it is not appropriate to present the website itself. 
+•Since the website is exclusively used by the nursing faculty, I believe it is not appropriate to present the website itself.<br>
 •However I can showcase how the website has evolved from its original version.
 
 
